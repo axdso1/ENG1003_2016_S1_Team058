@@ -1,6 +1,5 @@
-<<<<<<< HEAD:members.txt
-
 Members of our team 058
+
 
 Alex D'Souza
 
@@ -10,6 +9,4 @@ Yuxuan David Ge
 
 Henry Li
 
-=======
-Hello team
->>>>>>> parent of 49477bc... Added names:test document.txt
+
