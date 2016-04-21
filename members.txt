@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 154a022... hi
 Members of our team 058
 
 
@@ -9,4 +13,7 @@ Yuxuan David Ge
 
 Henry Li
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 154a022... hi
